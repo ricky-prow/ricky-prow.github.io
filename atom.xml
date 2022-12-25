@@ -9,9 +9,8 @@
       <name>睿睿</name>
     </author>
     <updated>2020-08-13T13:45:48.000Z</updated>
-    <category term="生活" />
-    <category term="记录" />
-    <category term="编程" />
+    <category term="关键词1" />
+    <category term="关键词2" />
     <entry>
         <id>http://ricky-prow.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>

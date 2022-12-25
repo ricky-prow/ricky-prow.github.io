@@ -12,9 +12,8 @@
         <language>zh-CN</language>
         <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
         <lastBuildDate>Thu, 13 Aug 2020 21:45:48 +0800</lastBuildDate>
-        <category term="生活" />
-        <category term="记录" />
-        <category term="编程" />
+        <category term="关键词1" />
+        <category term="关键词2" />
         <item>
             <guid isPermalink="true">http://ricky-prow.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
